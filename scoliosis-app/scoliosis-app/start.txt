@@ -1,0 +1,6 @@
+cd C:\Users\onurm\OneDrive\Masaüstü\scoliosis-app\backend
+venv\Scripts\activate.bat
+uvicorn main:app --reload
+
+cd C:\Users\onurm\OneDrive\Masaüstü\scoliosis-app\frontend
+npm run dev

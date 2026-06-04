@@ -1,0 +1,8 @@
+*.pth
+*.task
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.log
